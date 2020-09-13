@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **deep learning, machine learning & all things AI**
 
-- 💬 Ask me about **timezone bugs, using float for money, correctly escaping output, RESTful design, TDD, HTML over the wire, security & privacy, software architecture, warehouse picker routing, static vs. dynamic typing, tabs vs. spaces, ...**
+- 💬 Ask me about **timezone bugs, using float for money, correctly escaping output, RESTful design, TDD, HTML over the wire, security & privacy, software architecture, warehouse picker routing, tech debt, static vs. dynamic typing, tabs vs. spaces, ...**
 
 - 📫 How to reach me **https://twitter.com/sukenik**
 
